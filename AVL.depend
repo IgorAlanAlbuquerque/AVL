@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1553362051 source:c:\users\igora\desktop\avl\src\arvoreavl.cpp
+	"arvoreAVL.h"
+	<iostream>
+	<cstdlib>
+
+1553353800 c:\users\igora\desktop\avl\include\arvoreavl.h
+
+1553356363 source:c:\users\igora\desktop\avl\main.cpp
+	<iostream>
+	"arvoreAVL.h"
+
+1553207056 c:\users\igora\desktop\avl\include\metodos.h
+	"arvoreAVL.h"
+
